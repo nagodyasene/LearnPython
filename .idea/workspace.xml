@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="839fb18c-171c-4c71-89a8-e7fcaa490678" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16/money_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 16/object_oriented_programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 17/create_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 17/question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 18/hirst_painting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 18/turtle_graphics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 18/wallpaper.py" afterDir="false" />
+    <list default="true" id="839fb18c-171c-4c71-89a8-e7fcaa490678" name="Changes" comment="Added all files">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nagodyasene/LearnPython.git",
+    "accountId": "ee60efa2-9e1d-4108-a9b9-c97f720e41fe"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -96,8 +82,17 @@
       <updated>1758442054005</updated>
       <workItem from="1758442055024" duration="5070000" />
       <workItem from="1758454891809" duration="1730000" />
-      <workItem from="1758479741882" duration="11518000" />
+      <workItem from="1758479741882" duration="11902000" />
     </task>
+    <task id="LOCAL-00001" summary="Added all files">
+      <option name="closed" value="true" />
+      <created>1758492321022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758492321023</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +109,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all files" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -128,7 +127,7 @@
     <SUITE FILE_PATH="coverage/LearnPython$wallpaper.coverage" NAME="wallpaper Coverage Results" MODIFIED="1758485466857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 18" />
     <SUITE FILE_PATH="coverage/LearnPython$turtle_graphics.coverage" NAME="turtle_graphics Coverage Results" MODIFIED="1758488651026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 18" />
     <SUITE FILE_PATH="coverage/LearnPython$object_oriented_programming.coverage" NAME="object_oriented_programming Coverage Results" MODIFIED="1758449276427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 16" />
-    <SUITE FILE_PATH="coverage/LearnPython$hirst_painting.coverage" NAME="hirst_painting Coverage Results" MODIFIED="1758492015034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 18" />
+    <SUITE FILE_PATH="coverage/LearnPython$hirst_painting.coverage" NAME="hirst_painting Coverage Results" MODIFIED="1758492208329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 18" />
     <SUITE FILE_PATH="coverage/LearnPython$main.coverage" NAME="main Coverage Results" MODIFIED="1758455535428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 16" />
     <SUITE FILE_PATH="coverage/LearnPython$create_class.coverage" NAME="create_class Coverage Results" MODIFIED="1758456469603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 17" />
   </component>
